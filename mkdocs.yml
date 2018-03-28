@@ -1,0 +1,6 @@
+site_name: rubber ducklings
+theme: material
+pages:
+    - Home: index.md
+    - Flask stuff:
+        - Writing Your Docs: Flask Related/flask_related.md

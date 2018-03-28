@@ -4,9 +4,19 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-27</lastmod>
+     <lastmod>2018-03-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>/Flask Related/flask_related/</loc>
+     <lastmod>2018-03-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
